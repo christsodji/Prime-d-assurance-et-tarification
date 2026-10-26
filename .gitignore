@@ -1,0 +1,16 @@
+# Résultats générés par le notebook
+outputs/
+
+# Données décompressées (seules les versions .zip sont versionnées)
+data/*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
